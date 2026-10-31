@@ -1,0 +1,16 @@
+step,users,segment,cumulative_cr,step_cr,step_dropoff,users_lost
+Homepage,10000,Overall,100.0,100.0,0.0,0.0
+Product Page,6388,Overall,63.88,63.88,36.12,3612.0
+Cart,2447,Overall,24.47,38.31,61.69,3941.0
+Checkout,519,Overall,5.19,21.21,78.79,1928.0
+Payment,74,Overall,0.74,14.26,85.74,445.0
+Homepage,5500,Desktop,100.0,100.0,0.0,
+Product Page,3733,Desktop,67.87,67.87,32.13,
+Cart,1581,Desktop,28.75,42.35,57.65,
+Checkout,378,Desktop,6.87,23.91,76.09,
+Payment,66,Desktop,1.2,17.46,82.54,
+Homepage,4500,Mobile,100.0,100.0,0.0,
+Product Page,2655,Mobile,59.0,59.0,41.0,
+Cart,866,Mobile,19.24,32.62,67.38,
+Checkout,141,Mobile,3.13,16.28,83.72,
+Payment,8,Mobile,0.18,5.67,94.33,
